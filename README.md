@@ -7,8 +7,8 @@
 <div style="display: inline_block">
   <p>Softwares:<p/>
   <img align="center" alt="Rafa-Ts" height="30" width="30" src="https://cdn4.iconfinder.com/data/icons/various-icons-2/476/Unity.png">
-  <img align="center" alt="Rafa-Ts" height="30" width="30" src="https://cdn2.iconfinder.com/data/icons/icons-mega-pack-1-and-2/256/Blender.png">  
   <img align="center" alt="Rafa-Ts" height="30" width="30" src="https://cdn4.iconfinder.com/data/icons/various-icons-2/476/Visual_Studio.png">  
+  <img align="center" alt="Rafa-Ts" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg"> 
   <br /> <br /> 
   <p>Linguagens de programação:<p/>
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
